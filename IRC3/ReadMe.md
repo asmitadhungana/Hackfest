@@ -1,1 +1,1 @@
-#IRC3 is a NFT (Non Fungible Token).Inspired by the ERC-721 standard, IRC-3 covers NFT use cases’ broad features, including ownership representation of digital or physical assets, and consignment to third party operators for token transfers
+IRC3 is a NFT (Non Fungible Token).Inspired by the ERC-721 standard, IRC-3 covers NFT use cases’ broad features, including ownership representation of digital or physical assets, and consignment to third party operators for token transfers
