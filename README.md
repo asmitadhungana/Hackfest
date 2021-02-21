@@ -10,4 +10,4 @@ To deploy the token run "token-test.ipynd" file.
 
 <h1>References </h1>
 
-Basic IRC2 token
+Basic IRC2 token (https://docs.opendevicon.io/jupyter-notebook/create-your-own-token/testbasictoken)
