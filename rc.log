@@ -1,0 +1,17 @@
+2021-02-22 09:40:28,302 main.go:77: Version : 1.2.5-6-gad1bbca
+2021-02-22 09:40:28,303 main.go:78: Build   : tags()-2021-02-17-12:10:04
+2021-02-22 09:40:28,304 manager.go:40: Running config {"IISSData":"/home/asmee/ICON/Hackfest/.statedb/iiss","IScoreDB":"/home/asmee/ICON/Hackfest/.statedb/rc","IPCNet":"unix","IPCAddress":"/tmp/iiss_7100.sock","ClientMode":true,"DBCount":16,"Monitor":true,"LogFile":"./rc.log","LogMaxSize":10,"LogMaxBackups":10,"CalcDebugConf":"./calculation_debug.json","FileName":"rc_config.json"}
+2021-02-22 09:40:28,389 calculation_debug.go:165: Error while opening calculation debug config file: ./calculation_debug.json. error : open ./calculation_debug.json: no such file or directory
+Result file will be store in defaultPath : CalculateResult
+2021-02-22 09:40:29,995 context.go:511: ============================================================================
+2021-02-22 09:40:29,995 context.go:512: Print context values
+2021-02-22 09:40:29,995 context.go:513: Revision : 0
+2021-02-22 09:40:29,996 context.go:514: Database Info.: {"DBRoot":"/home/asmee/ICON/Hackfest/.statedb/rc/IScore","DBType":"goleveldb","DBCount":16,"QueryDBIsZero":false,"Current":{"BlockHeight":0,"BlockHash":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"CalcDone":0,"PrevCalcDone":0,"Calculating":0,"ToggleBH":0}
+2021-02-22 09:40:29,996 context.go:515: Governance Variable: 0
+2021-02-22 09:40:29,996 context.go:519: P-Rep list: 0
+2021-02-22 09:40:29,996 context.go:523: P-Rep candidate count : 0
+2021-02-22 09:40:29,996 context.go:524: Calculation Debug flag : false
+2021-02-22 09:40:29,996 context.go:525: Calculation Debugging Addresses : []
+2021-02-22 09:40:29,996 context.go:526: ============================================================================
+2021-02-22 09:40:29,997 msg.go:180: Send message. (msg:READY, id:0, data:Version: 2, BlockHeight: 0, BlockHash: 0000000000000000000000000000000000000000000000000000000000000000)
+2021-02-22 09:40:29,997 msg.go:115: Accept new connection and send READY message
